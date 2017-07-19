@@ -163,26 +163,32 @@ image credits
 
 
 ---
+class: softblue, top, center
+background-image:  url(images/angela-guide-tableau.png)
 
-## Selected Tableau and Visuzlization Workshops
+## http://guides.library.duke.edu/tableau/
 
-- Coming Soon
+---
+class: green
+## Selected Tableau and Visualization Workshops
 
-    - Effective Visualization
-    - ggplot2 (tidy visualizations in \[R\])
+#### Coming Soon
+
+- Effective Visualization
+- ggplot2 (tidy visualizations in \[R\])
     
-- Past Recordings  -- *At your own pace*
+#### Past Recordings  -- *At your own pace*
 
-    - Advanced Tableau
-    - Easy Interactive Charts and Maps with Tableau
-    - Making Data Visual
-    - Top 10 Dos and Don'ts for Charts and Graphs
-    - http://library.duke.edu/data/news/past-workshops 
+- Advanced Tableau
+- Easy Interactive Charts and Maps with Tableau
+- Making Data Visual
+- Top 10 Dos and Don'ts for Charts and Graphs
+- http://library.duke.edu/data/news/past-workshops 
     
-- See Also
+#### See Also
 
-    - Adobe Illustrator for Diagrams and Visualizations
-    - Designing Academic Figures and Posters
+- Adobe Illustrator for Diagrams and Visualizations
+- Designing Academic Figures and Posters
 
 
 ---
