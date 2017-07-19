@@ -61,23 +61,23 @@ use 'p' to toggle the presenter mode or '?' or 'h' to toggle the help / key-shor
 image source:  http://clipart-library.com/clipart/rcjKRarXi.htm 
 
 
-- sources:  <img src="/data/sites/default/files/datagis/users/angela.zoss/iconmonstr-disk-2-icon-01.png" width="40" height="48" style="float: left; margin-right: 10px;" />
+- sources:  
 
     - DVS consultants can help locate and license a diverse range of data sources.  Get the data you need.
 
-- rdm: <img src="/data/sites/default/files/datagis/users/angela.zoss/data_cleaning_icon-01.png" width="40" height="39" style="float: left; margin-right: 10px;" />
+- rdm: 
 
-- Need help with research data management, archiving, or long term storage. Consultants for Duke’s institutional repository and the [Open Science Framework](http://osf.io).
+    - Need help with research data management, archiving, or long term storage. Consultants for Duke’s institutional repository and the [Open Science Framework](http://osf.io).
 
-- cleaning: <img src="/data/sites/default/files/datagis/users/angela.zoss/data_analysis_icon-01.png" width="40" height="37" style="float: left; margin-right: 10px;" />
+- cleaning: 
 
     - From <a href="http://libjohn.github.io/openrefine">OpenRefine</a> to the command line, we can help with data processing and cleaning.
 
-- Analysis:  <img src="/data/sites/default/files/datagis/users/angela.zoss/iconmonstr-map-4-icon-01.png" width="40" height="33" style="float: left; margin-right: 10px;" />
+- Analysis:  
 
     - Get help using analytical and <a href="/data/about/lab">statistical software</a> like Stata and R.
 
-- mapping:  <img src="/data/sites/default/files/datagis/users/angela.zoss/iconmonstr-bar-chart-2-icon-01.png" width="40" height="34" style="float: left; margin-right: 10px;" />
+- mapping:  
 
     - Mapping and spatial analysis
     
@@ -124,171 +124,104 @@ Image credits:
 
 ---
 
-## Workshops
+## Hands-on Workshops
 
-- Past Events & Recordings
+.pull-left[ 
 
-    - http://library.duke.edu/data/news/past-workshops
 
-- Upcoming Events
+![](images/workshop.jpg)
 
-    - http://library.duke.edu/data/news 
+]
 
+.pull-right[ 
+
+- ###Past Events & Recordings
+
+    - [Past Workshops](http://library.duke.edu/data/news/past-workshops)
+
+- ###Upcoming Events
+
+    - [Fall 2017 is coming](http://library.duke.edu/data/news) 
+    
+    - [DVS Announce](https://lists.duke.edu/sympa/info/dvs-announce)
+    
+    - [Twitter - @duke_data](https://twitter.com/duke_data)
+    
+    - [Twitter - @duke_vis](https://twitter.com/duke_vis)
+    
+    - [Our Blog](http://blogs.library.duke.edu/data/)
+
+]
+
+
+
+???
+
+image credits
+
+- http://clipart-library.com/images/dc4o8nKri.jpg 
+
+
+---
+
+## Selected Tableau and Visuzlization Workshops
+
+- Coming Soon
+
+    - Effective Visualization
+    - ggplot2 (tidy visualizations in \[R\])
+    
+- Past Recordings  -- *At your own pace*
+
+    - Advanced Tableau
+    - Easy Interactive Charts and Maps with Tableau
+    - Making Data Visual
+    - Top 10 Dos and Don'ts for Charts and Graphs
+    - http://library.duke.edu/data/news/past-workshops 
+    
+- See Also
+
+    - Adobe Illustrator for Diagrams and Visualizations
+    - Designing Academic Figures and Posters
 
 
 ---
 
 ### Consultations
 
-- walk-in schedule
 
-- by appointment:  askdata@duke.edu 
+.pull-left[ 
 
 
----
-## How to use this Template
+![](images/consulting.jpg)
 
-- Review the [install/get-started instructions](https://slides.yihui.name/xaringan/#8)
 
-- Yihui's [Tips and Techniques](https://slides.yihui.name/xaringan/#22)
+] 
 
-1. Create a new R Markdown document from the menu `File -> New File -> R Markdown -> From Template -> Ninja Presentation`
+.pull-right[ 
 
-1.  Paste this [Rmd template](https://raw.githubusercontent.com/libjohn/slide-template-dukeu/master/duke_slide_template.Rmd) over the Ninja Template
+- ### Walk-in Schedule
 
-    - *Yes I should make this an official template* (this is it, for now.)
-    
-1. Review the [Template Slides](http://libjohn.github.io/slide-template/duke_slide_template.html) and Style Sheets ([Xaringan-example.css](https://github.com/libjohn/slide-template-dukeu/blob/master/libs/remark-css/example.css) | [duke.css](https://github.com/libjohn/slide-template-dukeu/blob/master/duke_color_pallettes_slides.css))  to learn more about how CSS will affect your composition
+    - M-F, 1-3pm
+    - [/data/about/schedule](https://library.duke.edu/data/about/schedule)
 
----
-## Two Column
+- ### By Appointment
 
-.pull-left[
-- You can generate a left column 
+    - [askdata@duke.edu](mailto:askdata@duke.edu)
 
-    - by wrapping the left-hand text in \.pull-left\[ foo \]
+- ### 1st Floor Bostock Library 
 
-- TAGS 
+     - [The /Edge](http://library.duke.edu/edge/spaces)
 
-- Splunk
 ]
 
-.pull-right[
-- You can generate a right column 
+???
 
-    - by wrapping the right-hand text in \.pull-right\[ foo \]
+image credit
 
-- foo
-
-- f00
-]
-
----
-
-## Next Steps...
-
-### Text Analysis
-
-- Voyant - Text Analysis
-- Gephi - Network Graph Analysis
-- Lib Guides
-
-    - http://guides.library.duke.edu/text_analysis
-    - http://guides.library.duke.edu/digital_humanities 
-    
-- R and it's many packages
-
----
-class: inverse
-
-## inverse
-
-### h3
-
-**Accomplish** this with '`class: inverse`' as the first line below '`---`'
-
-Lorem Ipsum
-
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-
----
-class: softblue
-
-## softblue
-
-**Accomplish** this with '`class: softblue`' as the first line below '`---`'
-
-Lorem Ipsum
-
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-
-- one
-
-- [Google](http://google.com)
-
-- three
-
----
-class: orange
-
-## orange
-
-**Accomplish** this with '`class: orange`' as the first line below '`---`'
-
-Lorem Ipsum
-
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-
-- one
-
-- [Google](http://google.com)
-
-- three
-
----
-class: green
-
-## green
-
-- `class: green`
-
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-
-- one
-
-- [Green website inspirations](https://webdesignledger.com/50-green-web-designs-to-inspire-you/)
-
-- three
+- http://maxpixel.freegreatpicture.com/Consulting-Management-Idea-Lamp-Gear-1315735
 
 
----
-class: h2orange
-background-image: url(http://www.publicdomainpictures.net/pictures/170000/velka/hand-holding-old-keys-1462981136Ul1.jpg)
-
-## CUSTOM: Two Column
-
-**Accomplish** this with '`class: hs2orange`' as the first line below '`---`'
-
-Lorem Ipsum
-
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-
-
-.left-column[
-- You can generate a left column 
-    - by wrapping the left-hand text in \.left-column\[ foo \]
-    - You'll want to custom edit the duke.css to suit your needs
-]
-
-.right-column[
-- You can generate a right column
-
-- by wrapping the right-hand text in \.right-column\[ foo \]
-
-- You'll want to custom edit the duke.css to suit your needs
-]
-
-<!-- Image credit:  http://www.publicdomainpictures.net/view-image.php?image=167489  -->
 
 ---
 ## Thank You For Attending
