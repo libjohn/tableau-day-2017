@@ -1,0 +1,255 @@
+---
+title: "Tableau Day 2017"
+subtitle: "Duke University<br>A DVS presentation"
+author: "John Little"
+date: "July 26, 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "duke_color_pallettes_slides.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+---
+exclude: false
+class: top, center
+background-image:  url(http://library.duke.edu/data/sites/default/files/datagis/images/data_gis_logo.png)
+
+## Data & Visualization Services
+### http://library.duke.edu/data
+
+???
+<!-- class: center, middle -->
+
+This is a presenter comment for the presenter mode
+
+use 'p' to toggle the presenter mode or '?' or 'h' to toggle the help / key-shortcut options
+
+---
+background-image:  url(images/lifecycle.png)
+## Support Areas
+All things Data
+
+- ###Sources
+
+- ###Research Data Management
+
+- ###Cleaning
+
+- ### Analysis
+
+- ###Mapping and GIS
+
+- ###Visualization
+
+
+???
+- sources:  <img src="/data/sites/default/files/datagis/users/angela.zoss/iconmonstr-disk-2-icon-01.png" width="40" height="48" style="float: left; margin-right: 10px;" />
+
+    - DVS consultants can help locate and license a diverse range of data sources.  Get the data you need.
+
+- rdm: <img src="/data/sites/default/files/datagis/users/angela.zoss/data_cleaning_icon-01.png" width="40" height="39" style="float: left; margin-right: 10px;" />
+
+- Need help with research data management, archiving, or long term storage. Consultants for Duke’s institutional repository and the [Open Science Framework](http://osf.io).
+
+- cleaning: <img src="/data/sites/default/files/datagis/users/angela.zoss/data_analysis_icon-01.png" width="40" height="37" style="float: left; margin-right: 10px;" />
+
+    - From <a href="http://libjohn.github.io/openrefine">OpenRefine</a> to the command line, we can help with data processing and cleaning.
+
+- Analysis:  <img src="/data/sites/default/files/datagis/users/angela.zoss/iconmonstr-map-4-icon-01.png" width="40" height="33" style="float: left; margin-right: 10px;" />
+
+    - Get help using analytical and <a href="/data/about/lab">statistical software</a> like Stata and R.
+
+- mapping:  <img src="/data/sites/default/files/datagis/users/angela.zoss/iconmonstr-bar-chart-2-icon-01.png" width="40" height="34" style="float: left; margin-right: 10px;" />
+
+    - Mapping and spatial analysis
+    
+- Visualization
+
+    - Help with the most effective way to represent your data for both analysis and communication.
+
+
+---
+## How to use this Template
+
+- Review the [install/get-started instructions](https://slides.yihui.name/xaringan/#8)
+
+- Yihui's [Tips and Techniques](https://slides.yihui.name/xaringan/#22)
+
+1. Create a new R Markdown document from the menu `File -> New File -> R Markdown -> From Template -> Ninja Presentation`
+
+1.  Paste this [Rmd template](https://raw.githubusercontent.com/libjohn/slide-template-dukeu/master/duke_slide_template.Rmd) over the Ninja Template
+
+    - *Yes I should make this an official template* (this is it, for now.)
+    
+1. Review the [Template Slides](http://libjohn.github.io/slide-template/duke_slide_template.html) and Style Sheets ([Xaringan-example.css](https://github.com/libjohn/slide-template-dukeu/blob/master/libs/remark-css/example.css) | [duke.css](https://github.com/libjohn/slide-template-dukeu/blob/master/duke_color_pallettes_slides.css))  to learn more about how CSS will affect your composition
+
+---
+## Two Column
+
+.pull-left[
+- You can generate a left column 
+
+    - by wrapping the left-hand text in \.pull-left\[ foo \]
+
+- TAGS 
+
+- Splunk
+]
+
+.pull-right[
+- You can generate a right column 
+
+    - by wrapping the right-hand text in \.pull-right\[ foo \]
+
+- foo
+
+- f00
+]
+
+---
+
+## Next Steps...
+
+### Text Analysis
+
+- Voyant - Text Analysis
+- Gephi - Network Graph Analysis
+- Lib Guides
+
+    - http://guides.library.duke.edu/text_analysis
+    - http://guides.library.duke.edu/digital_humanities 
+    
+- R and it's many packages
+
+---
+class: inverse
+
+## inverse
+
+### h3
+
+**Accomplish** this with '`class: inverse`' as the first line below '`---`'
+
+Lorem Ipsum
+
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+
+---
+class: softblue
+
+## softblue
+
+**Accomplish** this with '`class: softblue`' as the first line below '`---`'
+
+Lorem Ipsum
+
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+
+- one
+
+- [Google](http://google.com)
+
+- three
+
+---
+class: orange
+
+## orange
+
+**Accomplish** this with '`class: orange`' as the first line below '`---`'
+
+Lorem Ipsum
+
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+
+- one
+
+- [Google](http://google.com)
+
+- three
+
+---
+class: green
+
+## green
+
+- `class: green`
+
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+
+- one
+
+- [Green website inspirations](https://webdesignledger.com/50-green-web-designs-to-inspire-you/)
+
+- three
+
+
+---
+class: h2orange
+background-image: url(http://www.publicdomainpictures.net/pictures/170000/velka/hand-holding-old-keys-1462981136Ul1.jpg)
+
+## CUSTOM: Two Column
+
+**Accomplish** this with '`class: hs2orange`' as the first line below '`---`'
+
+Lorem Ipsum
+
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+
+
+.left-column[
+- You can generate a left column 
+    - by wrapping the left-hand text in \.left-column\[ foo \]
+    - You'll want to custom edit the duke.css to suit your needs
+]
+
+.right-column[
+- You can generate a right column
+
+- by wrapping the right-hand text in \.right-column\[ foo \]
+
+- You'll want to custom edit the duke.css to suit your needs
+]
+
+<!-- Image credit:  http://www.publicdomainpictures.net/view-image.php?image=167489  -->
+
+---
+## Thank You For Attending
+
+.pull-left[
+### I am ...
+
+- John Little
+- https://johnlittle.info
+- https://github.com/libjohn
+
+#### Schedule Me
+
+- [http:&#47;&#47;v.gd&#47;littleconsult](http://duke.libcal.com/appointment/2695)
+]
+
+.pull-right[
+### We are...
+- Data & Visualization Services
+- http://library.duke.edu/data
+- The /Edge, Bostock (1st Floor)
+
+#### Walk-in Hours
+- [Schedule](http://library.duke.edu/data/about/schedule)
+
+#### Our Workshops
+- [Current Workshops](http://library.duke.edu/data/news)
+- [Past Workshops](http://library.duke.edu/data/news/past-workshops)
+
+#### Contact Us
+- askData@Duke.edu
+]
+
+---
+class: center, middle
+## Shareable under CC BY-NC license 
+
+Data, presentation, and handouts are shareable under [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
+
+![This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](https://licensebuttons.net/l/by-nc/4.0/88x31.png "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License")
