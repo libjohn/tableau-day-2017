@@ -26,9 +26,18 @@ This is a presenter comment for the presenter mode
 use 'p' to toggle the presenter mode or '?' or 'h' to toggle the help / key-shortcut options
 
 ---
-background-image:  url(images/lifecycle.png)
-## Support Areas
-All things Data
+
+## Data Support Areas
+
+
+.pull-left[ 
+
+
+![](images/lifecycle.png)
+
+]
+
+.pull-right[ 
 
 - ###Sources
 
@@ -41,6 +50,10 @@ All things Data
 - ###Mapping and GIS
 
 - ###Visualization
+
+]
+
+#### Data Management Life Cycle
 
 
 ???
@@ -71,6 +84,65 @@ image source:  http://clipart-library.com/clipart/rcjKRarXi.htm
 - Visualization
 
     - Help with the most effective way to represent your data for both analysis and communication.
+
+
+---
+
+## DVS Services and Consultations 
+
+
+.pull-left[ 
+
+
+![](images/expert-staff.png)
+
+]
+
+.pull-right[ 
+
+- ###Expert Staff
+
+- ###Walk-in Consultations
+
+- ###Hands-on Workshops
+
+- ###Classroom Instruction
+
+- ###Computing Resources
+
+- ###Institutional & Other Repositories
+
+]
+
+
+???
+
+Image credits:  
+
+- http://clipart-library.com/clipart/Consultant-PNG-Picture.htm
+- http://clipart-library.com/data_images/12224.png
+
+---
+
+## Workshops
+
+- Past Events & Recordings
+
+    - http://library.duke.edu/data/news/past-workshops
+
+- Upcoming Events
+
+    - http://library.duke.edu/data/news 
+
+
+
+---
+
+### Consultations
+
+- walk-in schedule
+
+- by appointment:  askdata@duke.edu 
 
 
 ---
