@@ -44,6 +44,10 @@ All things Data
 
 
 ???
+
+image source:  http://clipart-library.com/clipart/rcjKRarXi.htm 
+
+
 - sources:  <img src="/data/sites/default/files/datagis/users/angela.zoss/iconmonstr-disk-2-icon-01.png" width="40" height="48" style="float: left; margin-right: 10px;" />
 
     - DVS consultants can help locate and license a diverse range of data sources.  Get the data you need.
