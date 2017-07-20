@@ -237,7 +237,7 @@ background-image:  url(images/angela-guide-tableau.png)
 </div -->
 
 ---
-## Thank You For Attending
+## Thank You
 
 .pull-left[
 ### I am ...
