@@ -18,7 +18,7 @@ background-image:  url(http://library.duke.edu/data/sites/default/files/datagis/
 ## Data & Visualization Services
 ### http://library.duke.edu/data
 
-Tableau Day Slides `->` http://is.gd/td2017
+Tableau Day Slides `->` [is.gd/td2017](http://is.gd/td2017)
 
 ???
 <!-- class: center, middle -->
