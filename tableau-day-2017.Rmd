@@ -227,10 +227,9 @@ class: green
 class: softblue, top, center
 background-image:  url(images/angela-guide-tableau.png)
 
-.td[
+.tabday[
 
-##http://guides.library.duke.edu/tableau/
-&nbsp;
+##[&nbsp; guides.library.duke.edu/tableau/ &nbsp;](http://guides.library.duke.edu/tableau/)
 
 ]
 
