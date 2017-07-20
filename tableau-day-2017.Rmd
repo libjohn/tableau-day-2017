@@ -16,7 +16,7 @@ class: top, center
 background-image:  url(http://library.duke.edu/data/sites/default/files/datagis/images/data_gis_logo.png)
 
 ## Data & Visualization Services
-### http://library.duke.edu/data
+### [library.duke.edu/data](http://library.duke.edu/data)
 
 Tableau Day Slides `->` [is.gd/td2017](http://is.gd/td2017)
 
