@@ -6,7 +6,7 @@ date: "July 26, 2017"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "duke_color_pallettes_slides.css", "td2017.css"]
+    css: ["default", "duke_color_pallettes_slides.css", "td2017.css", "cc-fonts.css"]
     nature:
       highlightStyle: github
       highlightLines: true
@@ -271,8 +271,15 @@ background-image:  url(images/angela-guide-tableau.png)
 
 ---
 class: center, middle
-## Shareable under CC BY-NC license 
+## Shareable 
 
-Data, presentation, and handouts are shareable under [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
+Data, presentation, and handouts 
 
-![This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](https://licensebuttons.net/l/by-nc/4.0/88x31.png "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License")
+<span class="cc">
+C 
+<!-- Key: a: SA, b: BY, c: CC Circle, d: ND, n: NC, m: Sampling, s: Share, r: Remix, C: CC Full Logo -->
+bn
+</span>
+
+
+[CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
